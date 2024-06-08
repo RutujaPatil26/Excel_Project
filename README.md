@@ -31,4 +31,4 @@ Seven pivot tables were created to summarise the data and help identify trends i
 Finally, the dashboard was created by inserting and customizing the pivot charts of corresponding pivot table. For user friendly and interactive experience 3 "Slicers" were added.
 Below the final dashboard in Excel.
 
-![40](https://github.com/RutujaPatil26/Excel_Project/assets/172021951/17331bbd-e650-486f-b0ec-19a28faf9c2a)
+![42](https://github.com/RutujaPatil26/Excel_Project/assets/172021951/bc217531-c964-4352-a5d9-310f688d438e)
