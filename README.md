@@ -32,3 +32,22 @@ Finally, the dashboard was created by inserting and customizing the pivot charts
 Below the final dashboard in Excel.
 
 ![42](https://github.com/RutujaPatil26/Excel_Project/assets/172021951/bc217531-c964-4352-a5d9-310f688d438e)
+
+## Insights
+Key insights from the analysis: Peak Months: February and March witness the highest orders and sales activity.
+
+- Gender Trends: Women lead the charge, accounting for approximately 64% of total purchases.
+
+- Top States: Maharashtra, Karnataka, and Uttar Pradesh shine as the top contributing states, making up around 35% of sales.
+
+- Age Matters: The adult age group (31-50 yrs) takes the lead, contributing a significant ~50% to the sales figures.
+
+- Dominant Channels: Amazon, Flipkart, and Myntra stand out as the major players, contributing to a substantial ~80% of the overall sales.
+
+- Order Status Breakdown: An impressive 92% of orders boast a "delivered" status, reflecting effective fulfillment processes.
+## Recommendations based on the Analysis
+### To boost sales in the future:
+1. Targeted Approach: Based on our data analysis, there's a golden opportunity to engage women aged 30-49 in Maharashtra, Karnataka, and Uttar Pradesh. 🚺 With this segment driving a significant portion of sales, tailoring marketing efforts could unlock remarkable growth potential.
+2. Online Strategy: Harnessing the power of online platforms, particularly Amazon, Flipkart, and Myntra, will be a game-changer. 🛒💻 Utilizing these channels for targeted ads and promotions can maximize reach and customer engagement.
+## Final Conclusion:
+To improve sales of Vrinda Store, women customers of the age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh must be targeted by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
