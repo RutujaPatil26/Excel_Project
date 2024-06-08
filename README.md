@@ -47,7 +47,7 @@ Key insights from the analysis: Peak Months: February and March witness the high
 - Order Status Breakdown: An impressive 92% of orders boast a "delivered" status, reflecting effective fulfillment processes.
 ## Recommendations based on the Analysis
 ### To boost sales in the future:
-1. Targeted Approach: Based on our data analysis, there's a golden opportunity to engage women aged 30-49 in Maharashtra, Karnataka, and Uttar Pradesh. 🚺 With this segment driving a significant portion of sales, tailoring marketing efforts could unlock remarkable growth potential.
-2. Online Strategy: Harnessing the power of online platforms, particularly Amazon, Flipkart, and Myntra, will be a game-changer. 🛒💻 Utilizing these channels for targeted ads and promotions can maximize reach and customer engagement.
+1. Targeted Approach: Based on our data analysis, there's a golden opportunity to engage women aged 30-49 in Maharashtra, Karnataka, and Uttar Pradesh. With this segment driving a significant portion of sales, tailoring marketing efforts could unlock remarkable growth potential.
+2. Online Strategy: Harnessing the power of online platforms, particularly Amazon, Flipkart, and Myntra, will be a game-changer. Utilizing these channels for targeted ads and promotions can maximize reach and customer engagement.
 ## Final Conclusion:
 To improve sales of Vrinda Store, women customers of the age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh must be targeted by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
